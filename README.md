@@ -8,9 +8,9 @@
 ## 1. Identificação do projeto
 
 * **Nome do projeto:** Mundo Disney
-* **Instituição de ensino:** Nome da instituição
+* **Instituição de ensino:** Senac Vila Velha
 * **Unidade curricular:** UC8 - Desenvolver Aplicações Mobile
-* **Professor(a):** Nome do(a) professor(a)
+* **Professor(a):** Rafaela Pessin
 
 ---
 
@@ -26,7 +26,7 @@ A aplicação apresenta os personagens em cards com suas imagens e nomes. També
 
 A organização dos arquivos e pastas do projeto é:
 
-```text
+text
 mundo-disney/
 │
 ├── index.html
@@ -38,7 +38,6 @@ mundo-disney/
 │   └── script.js
 │
 └── README.md
-```
 
 ### Descrição dos arquivos
 
@@ -70,9 +69,9 @@ mundo-disney/
 
 ### Endpoint utilizado
 
-```text
+
 https://api.disneyapi.dev/character
-```
+
 
 ### Para que a API foi utilizada?
 
